@@ -1,0 +1,10 @@
+### 폴더 무시하기 
+# - 폴더이름/ -> test/
+
+### 확장자 전부 무시하기 
+# - *.확장자 -> *.log
+
+### 특정 폴더에 있는 파일 무시하기
+# - Kotlin/test.py
+login.txt
+login_kakao.txt
