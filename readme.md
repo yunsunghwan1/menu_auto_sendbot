@@ -29,7 +29,7 @@ login_kakao.txt를 생성한 후
 
 ex): asdf,asdf로 
 ### 광주인력개발원 아이디 비밀번호
-login_kakao.txt를 생성한 후 
+login.txt를 생성한 후 
 아이디,비밀번호 로 생성하세요
 
 ex): asdf,asdf로 
